@@ -9,7 +9,7 @@ interface LocationApiService {
 
     companion object {
         const val BASE_URL = "https://api.openweathermap.org/geo/1.0/"
-        const val API_KEY = "c34133d36443b13eae42b304e68621e7"
+        const val API_KEY = "f01d0a9dcdb52af30a711bb8b4b4b530"
     }
 
     @GET("direct?")

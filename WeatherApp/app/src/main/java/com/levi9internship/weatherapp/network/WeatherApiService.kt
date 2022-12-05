@@ -9,7 +9,7 @@ interface WeatherApiService {
 
     companion object {
         const val BASE_URL = "https://api.openweathermap.org/data/2.5/"
-        const val API_KEY = "c34133d36443b13eae42b304e68621e7"
+        const val API_KEY = "f01d0a9dcdb52af30a711bb8b4b4b530"
         const val UNITS_METRIC = "metric"
         const val UNITS_IMPERIAL = "imperial"
     }
