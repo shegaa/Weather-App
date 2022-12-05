@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#26c6da</color>
+    <color name="primaryLightColor">#6ff9ff</color>
+    <color name="primaryDarkColor">#0095a8</color>
+    <color name="secondaryColor">#1e88e5</color>
+    <color name="secondaryLightColor">#6ab7ff</color>
+    <color name="secondaryDarkColor">#005cb2</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightBackground">#96C0CF</color>
+    <color name="gray">#E8D3D3</color>
+    <color name="topBlue">#377286</color>
+    <color name="bottomBlue">#7DB7CA</color>
+    <color name="topBlueDark">#458196</color>
+    <color name="bottomBlueDark">#3C7285</color>
+    <color name="blueDark">#2C5968</color>
+    <color name="transparent">#00000000</color>
+    <color name="trans_white">#99FFFFFF</color>
+    <color name="button_text">#476A76</color>
+    <color name="orange">#FFC01E</color>
+    <color name="textColor">#FFFFFFFF</color>
+    <color name="textColorDescription">#E8D3D3</color>
+    <color name="textColorTransparent80">#80FFFFFF</color>
+    <color name="green">#8FFF2E</color>
+    <color name="trans_blue">#4526C6DA</color>
+    <color name="light_blue">#8DBDCD</color>
+    <color name="trans_black">#61000000</color>
+    <color name="color_bottom_navigation">#FFFFFF</color>
+    <color name="error_message">#ff0033</color>
+</resources>

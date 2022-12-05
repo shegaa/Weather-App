@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="darkMode"
+        android:defaultValue="false"
+        android:title="@string/pref_dark_mode"
+        />
+
+    <ListPreference
+        android:key="showTemperatureIn"
+        android:title="@string/pref_show_temp_in"
+        android:defaultValue="°C"
+        android:dialogTitle="@string/pref_choose_temp_metrics"
+        android:entries="@array/pref_showTemperatureIn"
+        android:entryValues="@array/pref_showTemperatureIn"/>
+
+</PreferenceScreen>

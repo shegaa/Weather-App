@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371106322217",
+    "project_id": "weather-app-ec781",
+    "storage_bucket": "weather-app-ec781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371106322217:android:1e8f9385bc65505cd08938",
+        "android_client_info": {
+          "package_name": "com.levi9internship.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371106322217-nvuoogsauh6klneufem3cn76o1v1bgjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuZiyJhHj78AnLa9AUsTlXaw_Gzf4cYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371106322217-nvuoogsauh6klneufem3cn76o1v1bgjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
